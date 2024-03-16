@@ -1,1 +1,1 @@
-simple splash screen
+simple splash screen for sakec
